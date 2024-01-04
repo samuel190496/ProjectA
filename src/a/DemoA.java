@@ -1,4 +1,4 @@
-package a;
+;package a;
 
 public class DemoA {
 	public static void main(String[] args) {
@@ -14,7 +14,7 @@ public class DemoA {
 	}
 	// coming from GitHub
 	public static void sutract(int a, int b) {
-		System.out.println(a - b)
+		System.out.println(a - b);
 			}
 
 }
